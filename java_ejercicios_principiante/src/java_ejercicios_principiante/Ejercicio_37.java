@@ -1,17 +1,19 @@
 package java_ejercicios_principiante;
 
-//ciclo for
+//cicli while
 //impresion en pantalla de los números del 1 al 10
-public class Ejercicio_36 {
+public class Ejercicio_37 {
 
 	public static void main(String[] args) {
 		
-		/*for(expresion1;expresion2;expresion3) {
-			sentencias;
+		/*while(expresion) {
+			sentencia
 		}*/
 		
-		for(int num=1;num<=10;num++) {
+		int num = 1;
+		while(num<=10){
 			System.out.println(num);
+			num++;
 		}
 	}
 }
