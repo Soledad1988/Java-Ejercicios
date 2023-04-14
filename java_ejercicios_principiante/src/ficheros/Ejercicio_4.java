@@ -4,7 +4,6 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.FileWriter;
 import java.io.FileReader;
-import java.util.Scanner;
 import java.io.BufferedReader;
 
 //Ficheros: escritura y lectura combinadas
