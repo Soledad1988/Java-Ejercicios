@@ -1,4 +1,4 @@
-package libro200Ejercicios;
+package libro200Ejercicios.cap1;
 
 //Escribe un programa que muestre por pantalla 10 palabras en inglés junto a su correspondiente traducción
 //al castellano. Las palabras deben estar distribuidas en 2 columnas y alineadas a la izquierda. Pista:

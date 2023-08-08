@@ -1,4 +1,4 @@
-package libro200Ejercicios;
+package libro200Ejercicios.cap1;
 
 //Escribe un programa que pinte por pantalla alguna escena - el campo, la habitacion
 //de una casa, un aula - o algun objeto animado o inanimado - un coche, un gato, una taza, etc

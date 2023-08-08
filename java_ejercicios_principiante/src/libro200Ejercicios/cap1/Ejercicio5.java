@@ -1,4 +1,4 @@
-package libro200Ejercicios;
+package libro200Ejercicios.cap1;
 
 //modifica el programa anterior añadiendo colores. Puedes mostrar cada asignatura
 //con un color diferente

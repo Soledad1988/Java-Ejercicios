@@ -1,4 +1,4 @@
-package libro200Ejercicios;
+package libro200Ejercicios.cap1;
 
 //Modifica el programa anterior para que ademas se muestre tu direccion y
 //el número de telefono. Asegurate que los datos se muestren en lineas separadas

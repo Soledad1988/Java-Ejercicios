@@ -1,4 +1,4 @@
-package libro200Ejercicios;
+package libro200Ejercicios.cap1;
 
 //Escribe un programa que muestre tu nombre por pantalla
 public class Ejercicio1 {

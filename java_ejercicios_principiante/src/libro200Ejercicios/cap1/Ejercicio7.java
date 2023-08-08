@@ -1,4 +1,4 @@
-package libro200Ejercicios;
+package libro200Ejercicios.cap1;
 
 //Igual que el programa anterior, pero esta vez la piramide estara hueca(se debe ver
 //unicamente el contorno hecho con asteriscos).

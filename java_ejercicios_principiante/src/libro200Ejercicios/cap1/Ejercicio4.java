@@ -1,4 +1,4 @@
-package libro200Ejercicios;
+package libro200Ejercicios.cap1;
 
 //Escribe un programa que muestre tu horario de clases. Puedes usar espacios o tabuladores para alinear el texto
 public class Ejercicio4 {

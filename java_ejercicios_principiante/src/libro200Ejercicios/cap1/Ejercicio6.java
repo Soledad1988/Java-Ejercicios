@@ -1,4 +1,4 @@
-package libro200Ejercicios;
+package libro200Ejercicios.cap1;
 
 //Escribe un programa que pinte por pantalla una piramide rellena
 //a base de asteriscos. La base de la piramide debe estar formada por 9 astericos.
