@@ -1,4 +1,4 @@
-package libroAprenderAProgramar;
+package libroAprenderAProgramar.cap1;
 
 
 //Solicitar al usuario tres distancias
