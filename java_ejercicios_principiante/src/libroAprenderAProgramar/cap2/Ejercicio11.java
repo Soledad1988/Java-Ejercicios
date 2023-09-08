@@ -30,10 +30,7 @@ public class Ejercicio11 {
 			System.out.println("Notable: "+nota);
 		}else {
 			System.out.println("Sobresaliente: "+nota);
-		}
-		
-		
-		
+		}	
 		
 	}
 }
