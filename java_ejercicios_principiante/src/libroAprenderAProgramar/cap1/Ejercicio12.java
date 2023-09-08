@@ -13,11 +13,22 @@ public class Ejercicio12 {
 	public static void main(String[] args) {
 		
 		int num;
+		int resto;
+		int suma;
+		int multiplo;
+		
 		Scanner p = new Scanner(System.in);
 		
 		System.out.println("Ingrese un número: ");
 		num = p.nextInt();
 		
+		resto = num % 7;
+		
+		suma = 7 - resto ;
+		
+		multiplo = num % 7 == 0 ? 0 : suma;
+		
+		System.out.println("Debe sumar: "+ multiplo);
 		
 	}
 }

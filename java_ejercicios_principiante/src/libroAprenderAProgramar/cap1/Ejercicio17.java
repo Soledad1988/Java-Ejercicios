@@ -1,6 +1,5 @@
 package libroAprenderAProgramar.cap1;
 
-
 //Solicitar al usuario tres distancias
 //*La primera, medida en milimetros
 //*la segunda en centimetros.
