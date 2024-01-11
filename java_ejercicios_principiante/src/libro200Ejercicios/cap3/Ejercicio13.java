@@ -14,12 +14,20 @@ public class Ejercicio13 {
 		double nota1;
 		double nota2;
 		double notaDeseada;
-		double media;
 		
 		System.out.println("Introduzca la nota del primer cutrimestre: ");
 		nota1 = p.nextDouble();
 		
 		System.out.println("Que nota quiere sacar en el trimestre?: ");
 		notaDeseada = p.nextDouble();
+ 
+		 // La nota final se calcula de esta forma:
+		 // notaFinal = ((nota1 * 40) + (nota2 * 60)) / 100
+		 // Por tanto, despejando nota2 tenemos:
+		 // nota2 = ((notaFinal * 100) - (nota1 * 40)) / 60
+		 nota2 = ((notaDeseada * 100) - (nota1 * 40)) / 60;
+		    
+		    System.out.println("Para tener un " + notaDeseada + " en el trimestre");
+		    System.out.println("necesita sacar un " + nota2 + " en el segundo examen.");
 	}
 }
