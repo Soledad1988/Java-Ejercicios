@@ -5,13 +5,19 @@ package libro200Ejercicios.cap6;
 public class Ejercicio1 {
 
 	public static void main(String[] args) {
-		System.out.println("3 Números aleatorios: ");
+		int dados;
+		int suma = 0;
+		
+		System.out.println("Números aleatorios: ");
 		
 		for(int i = 1; i <= 3; i++) {
-			System.out.println((int)(Math.random()*11));
+			dados = (int)(Math.random()*6+1);
+			System.out.println(dados);
+			suma += dados;
 			
 		}
-	
+		
+		System.out.println("suma: " + suma);
 		
 	
 	}
