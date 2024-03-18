@@ -2,8 +2,8 @@ package libroAprenderAProgramar.cap1;
 
 import java.util.Scanner;
 
-//Modificar el ejercicio anterior par que, indicando 2 numeros n y m, nos diga que cantidad
-//hay que sumarle a n para que sea multiplo de m
+//Modificar el ejercicio anterior par que, indicando 2 números n y m, nos diga que cantidad
+//hay que sumarle a n para que sea múltiplo de m.
 public class Ejercicio13 {
 
 public static void main(String[] args) {

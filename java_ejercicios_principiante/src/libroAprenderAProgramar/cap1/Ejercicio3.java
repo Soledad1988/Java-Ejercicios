@@ -3,7 +3,7 @@ package libroAprenderAProgramar.cap1;
 import java.util.Scanner;
 
 //Escriba uma aplicacion que pida el año actual y el de nacimiento. Debe calcular su edad
-//suponiendo que el año en curso el usuario ya ah cumplido años.
+//suponiendo que el año en curso el usuario ya ha cumplido años.
 public class Ejercicio3 {
 
 
